@@ -47,27 +47,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/belaastore8_?igshid=YmMyMTA2M2Y=' //Link Instagrammu
-global.sgh = 'https://github.com/RullDev' //Link Githubmu
-global.sgc = 'https://youtube.com/@belacantik3150'
+global.sig = '-' //Link Instagrammu
+global.sgh = '-' //Link Githubmu
+global.sgc = '-'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '-' //Nomor Danamu
-global.ppulsa = '-' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/RullZy' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '085640325119' //Nomor Danamu
+global.ppulsa = '083895079009' //Nomor SimCard Yang Kamu Pake
+global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '-' //Nomor Bot
-global.nomorown = '6285776385448' //Nomor Owner
-global.namebot = 'BellaBotz' //Nama Bot
-global.nameown = 'Bella' // Nama Owner
+global.nomorbot = '6283895079009' //Nomor Bot
+global.nomorown = '6283838323239' //Nomor Owner
+global.namebot = 'ᴍᴀʜɪʀᴜ ʙᴏᴛ' //Nama Bot
+global.nameown = 'ᴍᴀʜɪʀᴜ' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285776385448', '❦ Bella? 🎐', true]//Ganti jd nomormu sama Namamu
+  ['6283838323239', 'ᴍᴀʜɪʀᴜ', true]//Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,9 +99,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 BellaBotz 汉  」' //Main Watermark
-global.wm2 = '©BelaaBotz'
-global.wm3 = '⫹⫺ BellaBOT'
+global.wm = '                「 ᴍᴀʜɪʀᴜ ʙᴏᴛ  」' //Main Watermark
+global.wm2 = '©ᴍᴀʜɪʀᴜ ʙᴏᴛ'
+global.wm3 = '⫹⫺ ᴍᴀʜɪʀᴜ ʙᴏᴛ'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
@@ -330,7 +330,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 857-3617-8354'
+global.phn = '+62 838-3832-3239'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -371,9 +371,9 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\nB\ne\nl\na\-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `10\nR\nP\nL\n2\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ BellaBotz'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʜɪʀᴜ ʙᴏᴛ'
 
 global.multiplier = 38 // The higher, The harder levelup
 
