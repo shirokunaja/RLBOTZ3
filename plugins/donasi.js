@@ -1,8 +1,7 @@
 let handler = async m => m.reply(`
 「 Suport Bot Dengan Cara donasi 」
 
-⫹⫺ Via Pulsa Telkomsel : 081275734367
-082288762105
+⫹⫺ Via Pulsa Axis : 083895079009
 ⫹⫺ Via Saweria :
 ⫹⫺ Gaada Bang
 
